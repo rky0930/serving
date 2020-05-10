@@ -52,7 +52,6 @@ def tf_serving_workspace():
         sha256 = "b6aa25c8283cca9de282bb7f5880b04492af76213b2f48c135c4963c6333a21e",
         strip_prefix = "abseil-cpp-36d37ab992038f52276ca66b9da80c1cf0f57dc2",
         urls = [
-            "http://mirror.tensorflow.org/github.com/abseil/abseil-cpp/archive/36d37ab992038f52276ca66b9da80c1cf0f57dc2.tar.gz",
             "https://github.com/abseil/abseil-cpp/archive/36d37ab992038f52276ca66b9da80c1cf0f57dc2.tar.gz",
         ],
     )
